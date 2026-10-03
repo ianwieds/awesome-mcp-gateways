@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "MCP Gateways",
+  "repo": "ianwieds/awesome-mcp-gateways",
+  "tagline": "Gateways, routers, proxies, aggregators, security layers and registries that sit between MCP clients and MCP servers.",
+  "scope": "It is about MCP Gateways: it sits between MCP clients and MCP servers, not a plain MCP server.",
+  "accent": "06B6D4",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: light packets travel from client apps through a central gateway hub and fan out to server racks."
 }
