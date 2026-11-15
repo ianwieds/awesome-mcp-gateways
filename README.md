@@ -218,10 +218,10 @@ A gateway gives many agents one governed way into many MCP servers. Plain MCP se
 - [Awesome MCP Servers (punkpeye)](https://github.com/punkpeye/awesome-mcp-servers) - Large categorized list of MCP servers, synced with the Glama directory.
 - [Awesome MCP Servers (wong2)](https://github.com/wong2/awesome-mcp-servers) - List of reference, official and community MCP servers.
 
+<!-- awesome:footer -->
 ## Contributing
 
-Read the [contribution guidelines](contributing.md) before you open a pull request.
+Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
