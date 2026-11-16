@@ -164,6 +164,7 @@ A gateway gives many agents one governed way into many MCP servers. Plain MCP se
 - [mcp-guardian](https://github.com/rudraneel93/mcp-guardian) - Governance proxy with YAML policies, token budgets, health checks and RBAC.
 - [mcpwall](https://github.com/behrensd/mcpwall) - Deterministic proxy that applies firewall-style rules to MCP tool calls.
 - [pod](https://github.com/suhui-organization/pod) - Compiles a least-privilege policy from recorded tool calls and enforces it at a gateway.
+- [Praesidia](https://praesidia.ai/mcp) - MCP gateway with per-connection tool permissions and decision records for routed calls.
 - [ReasonGate](https://github.com/cgrtml/reasongate) - Gate that blocks tool calls steered by untrusted tool output, giving a reason for each.
 - [SafeNode MCP Gateway](https://github.com/sp3ak/safenode-mcp-gateway) - Fail-closed proxy that denies, warns on or holds each tool call for approval.
 - [ScopeBlind Gateway](https://github.com/ScopeBlind/scopeblind-gateway) - Gateway with Cedar policies and signed receipts for each tool call.
