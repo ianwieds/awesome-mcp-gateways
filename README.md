@@ -186,6 +186,7 @@ A gateway gives many agents one governed way into many MCP servers. Plain MCP se
 
 ## Hosted tool platforms
 
+- [Aident Loadout](https://aident.ai) - Hosted MCP that connects agents to 1,000+ apps through one reusable setup.
 - [Alpic](https://alpic.ai) - Cloud for deploying, monitoring and distributing MCP servers and ChatGPT apps.
 - [Composio](https://composio.dev) - Tool platform with delegated auth across many apps, reachable over MCP.
 - [Klavis](https://github.com/Klavis-AI/klavis) - Open-source MCP integration platform with hosted servers and built-in auth.
