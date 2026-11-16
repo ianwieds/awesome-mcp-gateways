@@ -192,6 +192,7 @@ A gateway gives many agents one governed way into many MCP servers. Plain MCP se
 - [Manufact](https://manufact.com) - MCP cloud from the mcp-use team for deploying, testing and monitoring servers.
 - [One](https://github.com/withoneai/mcp) - One MCP server that searches and calls authenticated APIs across many apps.
 - [Pipedream MCP](https://mcp.pipedream.com) - Hosted MCP servers for thousands of APIs with managed user auth.
+- [SandBase CLI](https://github.com/sandbaseai/cli) - Local and hosted MCP bridge for discovering and calling models and data APIs.
 - [ToolRouter](https://toolrouter.com) - One MCP connection to a pool of hosted tools billed per call.
 - [Zapier MCP](https://zapier.com/mcp) - Exposes actions across thousands of Zapier apps to any MCP client.
 
