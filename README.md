@@ -107,7 +107,7 @@ A gateway gives many agents one governed way into many MCP servers. Plain MCP se
 - [mcptoon](https://github.com/activeing123/mcptoon) - CLI that serves all configured servers from one process with compact tool discovery.
 - [MetaMCP](https://github.com/metatool-ai/metamcp) - Docker-based aggregator that groups MCP servers into namespaces with middleware.
 - [NCP](https://github.com/portel-dev/ncp) - Orchestrator that searches tools across your MCP servers and loads them on demand.
-- [Omega MCP Router](https://github.com/Omega-JS-Stack/omega/tree/main/packages/mcp-router) - Stdio router for many MCP servers that caches tool schemas and starts each on first use.
+- [Omega MCP Router](https://github.com/omegajs-dev/omega/tree/main/packages/mcp-router) - Stdio router for many MCP servers that caches tool schemas and starts each on first use.
 - [Plugged.in MCP Proxy](https://github.com/VeriTeknik/pluggedin-mcp-proxy) - Proxy that combines servers into one, with a web app for tools, prompts and testing.
 - [PMCP](https://github.com/Consiliency/pmcp) - Claude Code meta-server that reveals tools step by step and starts servers on demand.
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) - Go server that merges many MCP servers behind one HTTP endpoint.
